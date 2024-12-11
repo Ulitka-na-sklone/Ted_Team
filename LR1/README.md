@@ -16,7 +16,7 @@
 7.Создали новый хост и олучили первые данные
 ![image 7](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR1/pic/7.jpg)
 8. Установили плагин для графаны
-![image 8](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR1/pic/8.jpg)
+![image 8](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR1/pic/8.png)
 9. Подключили дата сурсы и проверили их работу
 ![image 9](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR1/pic/9.jpg)
 ![image 10](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR1/pic/10.jpg)
