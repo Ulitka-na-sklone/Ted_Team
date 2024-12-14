@@ -1,0 +1,15 @@
+{{ domain_name }} {
+        root * /var/www/html
+        file_server
+
+        log {
+                output file {{ log.file }}
+                format json
+                level {{ log.level }}
+        }
+        header / {
+          X-Custom-Header "Third man header"
+        }
+
+        reverse_proxy /api/* localhost:3000
+}
