@@ -11,7 +11,7 @@
 
 ## Часть 2. Репликации
 4. Подключение к нодам постгреса
-![image5](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/5.jpg)
+![image5](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/5.png)
 ![image6](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/6.jpg)
 5. В ноду лидера кластера (pg_slave) добавляем таблицу и вставляем в неё данные
 ![image7](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/7.jpg)
@@ -28,7 +28,7 @@
 ![image12](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/12.jpg)
 ![image13](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/13.jpg)
 10. Проверяем Zookiper
-![image14](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/14.jpg)
+![image14](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/14.png)
 11. Создаём подключение к psql_entrypoint (haproxy)
 ![image15](https://github.com/Ulitka-na-sklone/Ted_Team/blob/main/LR3/pic/15.jpg)
 12. Пытаемся заселектить данные из мастер-ноды (получилось!)
